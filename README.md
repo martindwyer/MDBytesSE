@@ -19,3 +19,5 @@ Dave has an excellent handle on a wide range of web development topics, but fini
 </ol>
 
 I have a huge commitment to open source learning. This project is available under open source license.However, I have no patience for those who plagiarize for academic success. The public access of this repository means that plagiarized code can be googled and found to have originated here.
+
+Please read the accompanying LICENSE document before using or relying on the software provided at this repository.
