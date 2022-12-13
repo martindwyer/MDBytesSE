@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+fontawesome-free-6.2.1-web/
+
+keys.js
